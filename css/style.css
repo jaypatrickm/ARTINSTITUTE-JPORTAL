@@ -1,0 +1,224 @@
+@charset "utf-8";
+/* CSS Document
+For Jaesthetic Portal Site
+By Jay Manalansan
+ */
+ 
+@font-face{
+	font-family:IM FELL;
+	src:url("../fonts/fepirm27c-webfont.ttf");
+	/*src:url("../fonts/fepirm27c-webfont.eot");
+	src:url("../fonts/fepirm27c-webfont.svg");
+	src:url("../fonts/fepirm27c-webfont.woff");	*/
+}
+
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-color:#819eb0;	
+	color:#FFF;
+	font-size: 13px;
+}
+
+#container {
+	margin:0px auto;
+	width: 960px;	
+	
+}
+#logo {
+}
+
+#header {
+	padding: 0px;	
+}
+#nav {
+	float:right;
+	padding-top: 37px;
+	
+}
+#nav li {
+	display:inline;
+	list-style-type:none;
+	color:#fff;
+	font-size:20px;
+	padding-left: 15px;
+	
+}
+
+.greeting {
+	font-size: 16px;	
+	width:790px;
+	margin: 0px;
+	padding-top: 10px;
+	font-weight:100;
+
+}
+
+h3{
+	font-size: 20px;	
+}
+hr {
+	opacity:0.7;
+	alpha:50;	
+	color:#fff;
+}
+#center {
+	width: 432px;
+	margin: 0 auto;
+	height: 269px;
+	
+}
+#center2 {
+	width: 960px;
+	margin: 0 auto;
+	height: 269px;
+	
+}
+#signup {
+	padding-left: 80px;
+	margin-top: -2px;	
+}
+#photos {
+	margin: 20px auto;	
+	width: 960px;
+	height: 230px;
+}
+
+#photos2 {
+	margin: 0px
+	width: 760px;	
+}
+#controls {
+
+}
+#prev {
+	position:relative;
+	top: -155px;
+	left: -122px;
+}
+#next {
+	position:relative;
+	top: -155px;
+	left: 487px;
+
+}
+
+#prev2 {
+	position:relative;
+	top: -355px;
+	left: 1px;
+	z-index: 99999;
+}
+
+#next2 {
+	position:relative;
+	top: -355px;
+	left: 894px;
+	z-index: 99999;
+
+}
+#prev3 {
+	position:relative;
+	top: 102px;
+	left: -899px;
+	z-index: 99999;
+}
+
+#next3 {
+	position:relative;
+	top: 60px;
+	left: 27px;
+	z-index: 99999;
+
+}
+.display {
+	border: solid 12px;	
+	width: 397px;
+}
+
+.display2 {
+	float: left;
+	border: solid 12px;	
+	width: 397px;
+	margin-left: 80px;	
+}
+.info {
+	width:380px;
+	float:left;	
+	padding-left: 20px;
+	margin-top: -12px;
+	
+}
+.answer {
+	margin-top: -15px;	
+}
+	
+	
+.headline {
+	color:#bdd5fd;
+	font-size:22px;
+	margin-top: 7px
+}
+#blurb {
+	width: 465px;	
+	
+}
+#footer {
+	padding-top: 10px;
+	height: 80px;
+	margin: 0px;
+	padding-bottom: 0px;
+}
+#footer2 {
+	padding-top: 170px;
+	height: 80px;
+	margin: 0px;
+	padding-bottom: 0px;
+}
+#footer3 {
+	padding-top: 115px;
+	height: 80px;
+	margin: 0px auto;
+	padding-bottom: 0px;
+	width: 960px;
+}
+#footer4 {
+	padding-top: 175px;
+	height: 80px;
+	margin: 0px auto;
+	padding-bottom: 0px;
+	width: 960px;
+}
+a {
+	text-decoration:none;	
+}
+a:link {
+	color:#fff;
+	text-decoration:none;
+}
+a:visited{
+	color:#bdd5fd;
+}
+a:active {
+	color:#a4d2c8;
+}
+a:hover {
+	color:#a4d2c8;
+}
+#add {
+	position: relative;
+	top: -140px;
+	left: 653px;
+	width: 290px;
+}
+
+#comments {
+	width: 300px;
+	height: 100px;	
+}
+
+.formin {
+	margin-top: -10px;	
+}
+.secondLink {
+	padding-left: 112px;
+}
